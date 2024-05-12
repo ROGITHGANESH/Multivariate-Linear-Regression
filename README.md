@@ -39,7 +39,8 @@ print("Amount:",regr.predict([[3300,1300]]))
 ```
 ## Output:
 
-![Uploading image.png…]()
+![image](https://github.com/Kavin1311/Multivariate-Linear-Regression/assets/145695724/7439800b-8a2f-4ebd-90ac-5eb4ea9f587d)
+
 
 
 ## Result
