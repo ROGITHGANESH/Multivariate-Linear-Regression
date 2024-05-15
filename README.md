@@ -23,8 +23,8 @@ display the output
 
 ## Program:
 ```
-Developed by:T.KAVINAJAI
-Register no:212223100020
+Developed by: ROGITH GANESH.R
+Register no:212223100046
 
 import pandas as pd
 from sklearn import linear_model
